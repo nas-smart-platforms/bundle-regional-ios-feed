@@ -1,0 +1,161 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Feed
+import API
+import Combine
+import EventKit
+import EventKitUI
+import Foundation
+import Kingfisher
+import Security
+import Swift
+import UIKit
+import WebKit
+import os.log
+import os
+extension ChannelListViewController {
+  public func refreshView()
+}
+public enum ChannelError : Swift.Error {
+  case parsing(description: Swift.String)
+  case network(description: Swift.String)
+}
+extension UIView {
+  public enum GradientDirection {
+    case leftToRight
+    case topToBottom
+    case bottomLeftToTopRight
+    case topRightToBottomLeft
+    public static func == (a: UIKit.UIView.GradientDirection, b: UIKit.UIView.GradientDirection) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  @objc @IBInspectable dynamic public var cornerRadius: CoreGraphics.CGFloat {
+    @objc get
+    @objc set
+  }
+  public func pinToSuperviewEdges()
+  public func pinToViewEdges(view: UIKit.UIView)
+  public func centerInSuperview()
+  public func centerInView(_ view: UIKit.UIView)
+  public func pinToLayoutGuide(guide: UIKit.UILayoutGuide)
+  public func layout(using constraints: [UIKit.NSLayoutConstraint])
+  public func loadNib() -> UIKit.UIView
+}
+public typealias FetchTokenHandler = (Swift.Result<Swift.String, Swift.Error>) -> Swift.Void
+public protocol FeedDelegate : AnyObject {
+  func fetchCurrentAccessToken(_ completion: @escaping Feed.FetchTokenHandler)
+  func handle(error: Swift.Error)
+}
+extension Group : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class ChannelListViewModel : Foundation.ObservableObject {
+  @objc deinit
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+}
+public protocol ViewControllerConfigurable {
+  func configure(viewController: Feed.ViewControllerProtocol)
+}
+public protocol FeedHandling : Feed.FeedConfigurable, Feed.FeedIngress {
+}
+public protocol FeedConfigurable {
+  static var apiBaseURL: Foundation.URL { get set }
+}
+public protocol FeedIngress {
+  func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
+}
+@_hasMissingDesignatedInitializers final public class Feed : Feed.FeedConfigurable {
+  weak final public var delegate: Feed.FeedDelegate?
+  public static var apiBaseURL: Foundation.URL {
+    get
+    set
+  }
+  @objc deinit
+}
+extension Feed : Feed.FeedIngress {
+  final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
+}
+public protocol ViewControllerProtocol : AnyObject {
+  var viewController: UIKit.UIViewController { get }
+  func refreshView()
+}
+extension ViewControllerProtocol where Self : UIKit.UIViewController {
+  public var viewController: UIKit.UIViewController {
+    get
+  }
+  public func refreshView()
+}
+@objc @_inheritsConvenienceInitializers public class ChannelListViewController : UIKit.UIViewController {
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension ChannelListViewController : UIKit.UITableViewDelegate {
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: Foundation.IndexPath) -> UIKit.UISwipeActionsConfiguration?
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+}
+public enum SemanticColors : Swift.String, Swift.CaseIterable {
+  case daySelected
+  case statusProblem
+  case fallback_systemBackground
+  case chatBackgroundOther
+  case divider
+  case textInput
+  case textTertiary
+  case textPrimary
+  case textSecondary
+  case colorPrimary
+  case contentLinkText
+  case badgeChat
+  case badgeTickets
+  case chatBackgroundMe
+  case statusOk
+  case textLight
+  case statusWarning
+  public var uiColor: UIKit.UIColor {
+    get
+  }
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+  public typealias AllCases = [Feed.SemanticColors]
+  public static var allCases: [Feed.SemanticColors] {
+    get
+  }
+}
+extension UIColor {
+  public static var daySelected: UIKit.UIColor
+  public static var statusProblem: UIKit.UIColor
+  public static var fallback_systemBackground: UIKit.UIColor
+  public static var chatBackgroundOther: UIKit.UIColor
+  public static var divider: UIKit.UIColor
+  public static var textInput: UIKit.UIColor
+  public static var textTertiary: UIKit.UIColor
+  public static var textPrimary: UIKit.UIColor
+  public static var textSecondary: UIKit.UIColor
+  public static var colorPrimary: UIKit.UIColor
+  public static var contentLinkText: UIKit.UIColor
+  public static var badgeChat: UIKit.UIColor
+  public static var badgeTickets: UIKit.UIColor
+  public static var chatBackgroundMe: UIKit.UIColor
+  public static var statusOk: UIKit.UIColor
+  public static var textLight: UIKit.UIColor
+  public static var statusWarning: UIKit.UIColor
+}
+extension Feed.ChannelListViewController : Feed.ViewControllerProtocol {}
+extension UIKit.UIView.GradientDirection : Swift.Equatable {}
+extension UIKit.UIView.GradientDirection : Swift.Hashable {}
+extension Feed.SemanticColors : Swift.Equatable {}
+extension Feed.SemanticColors : Swift.Hashable {}
+extension Feed.SemanticColors : Swift.RawRepresentable {}

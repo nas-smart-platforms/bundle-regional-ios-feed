@@ -1,0 +1,4 @@
+framework module Feed {
+  header "Feed-Swift.h"
+  requires objc
+}

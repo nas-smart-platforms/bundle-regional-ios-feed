@@ -1,0 +1,236 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 11,
+      "symbol": "ChannelListViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 56,
+      "symbol": "ChannelListViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 75,
+      "symbol": "ChannelListViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 88,
+      "symbol": "ChannelListViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 169,
+      "symbol": "ChannelListViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 171,
+      "symbol": "ChannelListViewController.tableView(_:trailingSwipeActionsConfigurationForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 178,
+      "symbol": "ChannelListViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 184,
+      "symbol": "ChannelListViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 200,
+      "symbol": "ChannelListViewController.refreshView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewModel.swift",
+      "line": 26,
+      "symbol": "ChannelListViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/Protocols/ChannelError.swift",
+      "line": 10,
+      "symbol": "ChannelError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/Protocols/ChannelError.swift",
+      "line": 11,
+      "symbol": "ChannelError.parsing(description:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/Protocols/ChannelError.swift",
+      "line": 12,
+      "symbol": "ChannelError.network(description:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 12,
+      "symbol": "UIView.GradientDirection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 13,
+      "symbol": "UIView.GradientDirection.leftToRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 14,
+      "symbol": "UIView.GradientDirection.topToBottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 15,
+      "symbol": "UIView.GradientDirection.bottomLeftToTopRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 16,
+      "symbol": "UIView.GradientDirection.topRightToBottomLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 32,
+      "symbol": "UIView.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 43,
+      "symbol": "UIView.pinToSuperviewEdges()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 49,
+      "symbol": "UIView.pinToViewEdges(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 58,
+      "symbol": "UIView.centerInSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 64,
+      "symbol": "UIView.centerInView(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 71,
+      "symbol": "UIView.pinToLayoutGuide(guide:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 80,
+      "symbol": "UIView.layout(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Extensions/UIView+.swift",
+      "line": 85,
+      "symbol": "UIView.loadNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Protocols/ViewControllerProtocol.swift",
+      "line": 14,
+      "symbol": "ViewControllerProtocol.viewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Protocols/ViewControllerProtocol.swift",
+      "line": 15,
+      "symbol": "ViewControllerProtocol.refreshView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Protocols/ViewControllerProtocol.swift",
+      "line": 19,
+      "symbol": "ViewControllerProtocol.viewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Protocols/ViewControllerProtocol.swift",
+      "line": 23,
+      "symbol": "ViewControllerProtocol.refreshView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/Core/Utils/Utils.swift",
+      "line": 32,
+      "symbol": "ViewControllerConfigurable.configure(viewController:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
+      "line": 8,
+      "symbol": "SemanticColors",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
+      "line": 44,
+      "symbol": "SemanticColors.uiColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/carsten/repositories/freelance/nas/ios-nas-base"
+}

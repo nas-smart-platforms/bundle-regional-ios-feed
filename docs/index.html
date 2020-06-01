@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Feed  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a title="Feed  Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="index.html">Feed 1.0 Docs</a> (54% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="index.html">Feed Reference</a>
+        <img id="carat" src="img/carat.png" />
+        Feed  Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Classes/ChannelListViewController.html">ChannelListViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes.html#/s:4Feed20ChannelListViewModelC">ChannelListViewModel</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Enums/ChannelError.html">ChannelError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Enums/SemanticColors.html">SemanticColors</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Extensions/Group.html">Group</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/UIColor.html">UIColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/UIView.html">UIView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/UIView/GradientDirection.html">– GradientDirection</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Protocols/ViewControllerConfigurable.html">ViewControllerConfigurable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Protocols/ViewControllerProtocol.html">ViewControllerProtocol</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            
+            <h1 id='nas-base' class='heading'>NAS Base</h1>
+
+<p>Common repository for all NAS/Letsbundle modules.</p>
+<h2 id='prerequisites' class='heading'>Prerequisites</h2>
+
+<p>The Feed module requires iOS 13 or newer.</p>
+<h2 id='fastlane' class='heading'>Fastlane</h2>
+
+<p>To simplify Fastlane deployments, create an <code>.env</code> file in the repository root with the following content:</p>
+<pre class="highlight plaintext"><code>FASTLANE_USER= # your Apple team email
+</code></pre>
+
+<p>For more information see the <a href="https://docs.fastlane.tools/advanced/other/#environment-variables">docs</a>.</p>
+<h2 id='cocoapods' class='heading'>CocoaPods</h2>
+
+<p>In the <code>Podfile</code> add:</p>
+
+<p><code>source &quot;ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios.git&quot;</code></p>
+
+<p>add the repository: <code>pod repo add letsbundle-bundle-regional-ios ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios.git</code></p>
+
+<p>and of course the Pod itself: <code>pod &quot;NASFeed&quot;</code>.</p>
+
+<p>⚠️⚠️⚠️ As of May 2020 you HAVE to install the following Swift Packages:</p>
+
+<ul>
+<li><strong>API</strong> <code>ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios-api.git</code></li>
+<li><strong>Kingfisher</strong> <code>https://github.com/onevcat/Kingfisher.git</code></li>
+</ul>
+
+<p>Future versions of Swift package manager might prevent this caveat.</p>
+
+<p><img src=".resources/setup.png" width=640 /></p>
+<h2 id='structure' class='heading'>Structure</h2>
+
+<ul>
+<li><strong>DummyApp</strong> – Example application integrating all modules (this is throw-away code)</li>
+<li><strong>DummyApp[Tests|UITests]</strong> &amp; <strong>TestPlans</strong> – Testing testing testing</li>
+<li><strong>Feed</strong> - Container target for the (News-/Information-)Feed
+
+<ul>
+<li><strong>ChannelList</strong> - Subscription management for any Channel/Group</li>
+<li><strong>Chat</strong> - Chat and message view</li>
+</ul></li>
+<li><strong>NASFeed</strong> – Podspec repository</li>
+<li><strong>XCFramework</strong> – used for framework generation</li>
+</ul>
+
+          </section>
+        </section>
+        <section id="footer">
+          <p>Copyright © 2020 Letsbundle GmbH. All rights reserved.</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
