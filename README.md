@@ -20,15 +20,17 @@ For more information see the [docs](https://docs.fastlane.tools/advanced/other/#
 
 In the `Podfile` add:
 
-`source "ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios.git"`
+`source "git@github.com:nas-smart-platforms/bundle-regional-ios-specs.git"`
 
-add the repository: `pod repo add nas git@github.com:nas-smart-platforms/bundle-regional-ios-specs.git`
+add the repository: `pod repo add nas https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git`
+
+<!-- `source "https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git"` -->
+<!-- add the repository: `pod repo add nas git@github.com:nas-smart-platforms/bundle-regional-ios-specs.git` -->
 
 and of course the Pod itself: `pod "NASFeed"`.
 
-⚠️⚠️⚠️ As of May 2020 you HAVE to install the following Swift Packages:
+⚠️⚠️⚠️ As of May 2020 you HAVE to install the following Swift Package:
 
-* **API** `ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios-api.git`
 * **Kingfisher** `https://github.com/onevcat/Kingfisher.git`
 
 Future versions of Swift package manager might prevent this caveat.

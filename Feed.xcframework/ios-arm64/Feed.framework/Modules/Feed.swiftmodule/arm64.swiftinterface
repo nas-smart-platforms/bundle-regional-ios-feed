@@ -70,7 +70,7 @@ public protocol FeedConfigurable {
 public protocol FeedIngress {
   func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
 }
-@_hasMissingDesignatedInitializers final public class Feed : Feed.FeedConfigurable {
+@_hasMissingDesignatedInitializers final public class FeedSDK : Feed.FeedConfigurable {
   weak final public var delegate: Feed.FeedDelegate?
   public static var apiBaseURL: Foundation.URL {
     get
@@ -78,7 +78,7 @@ public protocol FeedIngress {
   }
   @objc deinit
 }
-extension Feed : Feed.FeedIngress {
+extension FeedSDK : Feed.FeedIngress {
   final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
 }
 public protocol ViewControllerProtocol : AnyObject {

@@ -6,23 +6,23 @@
 	<dict>
 		<key>AppointmentView.nib</key>
 		<data>
-		qo1lx6KoXcQaq5kVtrtcPIFdO/E=
+		k09hwX8meYZSUo9VOcaHrEgSoPE=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		gXC4vLSiZBXf/oGCtp+0cEl1jg8=
+		mkQshCb4Y707n7XY32aH2CoUiGE=
 		</data>
 		<key>BroadcastAboViewController.nib</key>
 		<data>
-		YFY4SeLhf1QGEPSXi5EEOSB7Lms=
+		QKKav8Reutz5acEzFufYUyCVYa0=
 		</data>
 		<key>BroadcastTableViewCell.nib</key>
 		<data>
-		UfZChA3PiywEozqJPZ76sJ1zu+A=
+		Ahv2cqvfxw7ADi88FiFo+5fu49A=
 		</data>
 		<key>ChannelListTableViewCell.nib</key>
 		<data>
-		o9Elt+QB7aJ5HWA4JmFUe0Sm3tQ=
+		Ni3kySEz33piNW3+X7HoMAXZSW8=
 		</data>
 		<key>Chat.storyboardc/Info.plist</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Chat.storyboardc/UIViewController-uuk-wd-uro.nib</key>
 		<data>
-		i+G5k28emx3uu1m3d15C8rS6hl4=
+		wO+GPNZO8saTYEqgU3k/GkzoZTE=
 		</data>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<data>
-		L9gZPPxp4h+nQ/HUfao+GgeH714=
+		ueEhbOAGh2eHwjrVYNt25mztPX8=
 		</data>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<data>
-		lnkDhTZRlRwJq6KqMI9iI7Ruj4M=
+		DnQKGGvBu/lZB07LPWlXfTn6SSo=
 		</data>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<data>
-		bW/JNmecuXqSZTGvkVe9FQQqiio=
+		4Jl3umZ10w3j+gvNynK1d8UQI1w=
 		</data>
 		<key>Headers/Feed-Swift.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ManageNotificationsViewController.nib</key>
 		<data>
-		LQ9aUaNfzoqzln8CMJr0Y3Sl1J0=
+		nFxg80Y8GJDhVOzDLbCKonzJlFA=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		irGcu1hB9Jda8+KYap3io/bdT1M=
+		1mW2c2b/6y25rz8TCsj3dmLDDAE=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jjlbbjzVE38DQSPb8v3PuHUWf10=
+		7KYm5if/NyOaLKJjyFLfc/0/pAc=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		irGcu1hB9Jda8+KYap3io/bdT1M=
+		1mW2c2b/6y25rz8TCsj3dmLDDAE=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		jjlbbjzVE38DQSPb8v3PuHUWf10=
+		7KYm5if/NyOaLKJjyFLfc/0/pAc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>WebViewController.nib</key>
 		<data>
-		pzx1MXwCVyv9cFnOI7u0LLhbLuw=
+		cv84vKLFJAQeLyXGbgwKEqcK4aU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,35 +103,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Lu/GhKKwcDFjXy0YGJveNqEh8D0hTCu5Gr9ZM0Godg=
+			YkEjHLh3zMVUpzx7fCkoMf/GD3tomsPMeaoBHGJ67z8=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5r25gQjzMDZmcwNlOGdJcVZXGJ0VjiuZMGW44Gwybks=
+			c80OAS4yMJcNFp/TMflMABLQ9zl2tfo5LqavFV9AGDQ=
 			</data>
 		</dict>
 		<key>BroadcastAboViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYEXnx+pV+KttItzLyzwvOpSRyEkUSyJvqWk/JinedQ=
+			UiHyXgmN8RpmOFoBXeks1N2kckhep0aLTaf0Bh+U8nA=
 			</data>
 		</dict>
 		<key>BroadcastTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wz/Z5jMbJI/9FJECX1gVp8kReSWNqkwJY2LVeo4nhmM=
+			pEIYBKO6LBwHTYrgqBZY/GMaQU/OWP4XjHbu1+6x/Lw=
 			</data>
 		</dict>
 		<key>ChannelListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			485vUGsGTTOCLxmP3J2MFBUWpxy2vgMjvNN1pBsQ3y0=
+			2UYHC1rPLB3xTFWP7VoXDd22CNvB8RkCXUpYCGp4idg=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/Info.plist</key>
@@ -145,28 +145,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UX9S42fewivggfWV4m0vaz4PHA106ljfGIzZBkRbHr8=
+			6I6BLRerTyiV/kUAw+9NUoEaFXsBwEk92j72zXrlQWs=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2hT8fdCjU6o9gKksmF7CvxmcXjbImfpiDjeWxQF/f5U=
+			yz6DMVecJNAZk81xFqlDBj6vAiz0jx/tSgMQxqQChI0=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SvvZutRgkEYkQSf5eo2z+cqqDVlfoA8bnLL3LA9AJaU=
+			DPA+mLLwVZQMQHeoIDbo616lYgDOn61RAu7scqbj5mw=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C5mhNldQSg8atsDzJzm61uNLvMdubyOCpWW0jE5LSYQ=
+			J7KffUfdPO4RjdxxLQlDjfygkbHIh8iqQbfQ6MBps8Q=
 			</data>
 		</dict>
 		<key>Headers/Feed-Swift.h</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cLe5cWy3e+Gy5MoKm5YQk5uPC51fV/kvgyvUs/bsaNo=
+			pshVxqRfR32YJjdPGjI/whIuowj0H3jrYq+teiSKy48=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -208,14 +208,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2cxPv38xwN3F6o7pMjiT6JFL8dXLZYOtme2gnPe2RmQ=
+			p/qZo1wOOSz/CdmIR83jEI7jU3AWcNc/1OafmfeuNFU=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OslKRS6GVWg/SN+hhRFJsD0g1/0SOBB3Vao1/QD5dSU=
+			NLxfkh3DJIjAOPgO37TP1pWLCZLhH0uggERI+M3UsPE=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftdoc</key>
@@ -229,14 +229,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2cxPv38xwN3F6o7pMjiT6JFL8dXLZYOtme2gnPe2RmQ=
+			p/qZo1wOOSz/CdmIR83jEI7jU3AWcNc/1OafmfeuNFU=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OslKRS6GVWg/SN+hhRFJsD0g1/0SOBB3Vao1/QD5dSU=
+			NLxfkh3DJIjAOPgO37TP1pWLCZLhH0uggERI+M3UsPE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wOmfCPWEnEj7F5PWo0hTlEkTxnMb8CsrZjGexYEU6uo=
+			YgWix+GJ4X2QxQ9fctLrhNAYmphN6c0c1Fv4yes+l1U=
 			</data>
 		</dict>
 	</dict>
