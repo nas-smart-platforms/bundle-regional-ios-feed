@@ -6,23 +6,23 @@
 	<dict>
 		<key>AppointmentView.nib</key>
 		<data>
-		vFSXqpalGbVywBXTn3Nn7xut/rw=
+		AXmf8UZuMbVqOcdsCeNABjk/dgw=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		9qABte9f/IcDUe2l6OEqT1jOYV0=
+		Tsy0EMrvT98AQAZoF/cnNUgwgtQ=
 		</data>
 		<key>BroadcastAboViewController.nib</key>
 		<data>
-		m7Cy+zRcQNLN5ims314gVYhaESc=
+		+w6Ll+/Tr8HhCtz9L1Nt+9mQzkQ=
 		</data>
 		<key>BroadcastTableViewCell.nib</key>
 		<data>
-		Hw8iHhS9D2Fize0qKjKlMHqE4ig=
+		gR53DJPG77BFESF8HgNpbMvrOFI=
 		</data>
 		<key>ChannelListTableViewCell.nib</key>
 		<data>
-		qfLXVIwjqvyEuVn2kaGAFLQP3/U=
+		b+eJa1ZEsfiFaF4MjnjKiQN5rk8=
 		</data>
 		<key>Chat.storyboardc/Info.plist</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Chat.storyboardc/UIViewController-uuk-wd-uro.nib</key>
 		<data>
-		T0RjNjQGlS7GeKGY4JEC1YttyCg=
+		p2Y4vFNsASiQIjrHEdxr31LFKZ0=
 		</data>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<data>
-		Y515nJ6aIWWW8MnRQzNfaAF0vdU=
+		2Mmq+Im5jwXjAynB6MGpobiHymM=
 		</data>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<data>
-		ke0YZFFL/hvvB64NURXddjIhZL0=
+		0WQS1F7oAkrUZGOvWNt09PbXDPI=
 		</data>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<data>
-		ZFTRScEGLhOs7F9cRYV8SWwqE+M=
+		jzNbUAWQEMcSPwpL5o71D7XoCPk=
 		</data>
 		<key>Headers/Feed-Swift.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ManageNotificationsViewController.nib</key>
 		<data>
-		Sr0eGgewFxJGNJ6tL/4wBCYbLuY=
+		wz2OZpi6B0DSeiL9Pl3ywNt1Ws4=
 		</data>
 		<key>Modules/Feed.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>WebViewController.nib</key>
 		<data>
-		pNzQyeV/UnPQWyxEMVgXN6TPy9Y=
+		zDz8Mdh9KKOuwZXC9uuNeK+L6U4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,35 +103,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cg/4zoJvvfeivA75bckhgQ1QGkpuaXtTOfEokPu/+Dk=
+			sq+fTXZqYHxpQin+7QrmnzJ9QwRrCv6PbNRNVQRvSB4=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0JRmTxiheL73tObNbSeev44Fze52rtmjevALqz0RErY=
+			tGEpR19UrSE17BDs8uaUytOkcVU/gE1eSkAL0re3aJ4=
 			</data>
 		</dict>
 		<key>BroadcastAboViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l/h81hChlrkhlPdlq5Q7gvAoCcUPMs3prGuANBCIoNo=
+			Shw4eB/cpq4I3+anqntziKcnrSjFHv658HYj6Z2oGa0=
 			</data>
 		</dict>
 		<key>BroadcastTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HBbbXy4C3C/y6eGxacf/4gVpvOPy4Nc2iCY1I2vi6qA=
+			Xrxj3pqc4YqbLEi1et4PtwQciKDOuK/rDHK02/NfPqM=
 			</data>
 		</dict>
 		<key>ChannelListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Vn5FN0JD8Sh43JPWN9nw0Eff6Mbp/sCZvyzxOEpAnQ=
+			QchCEcGaAqjXpzLgv+SevTyeOMl7/zC7SX9L9UklE80=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/Info.plist</key>
@@ -145,28 +145,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4CARFq8mxUV+Gzv2JjwKDoRd9DVgS4qQu6TijZr3xvA=
+			mcMoH/GXXPmxbnA2jq9pOjW5/9sYp5uqgTtRxUSJsis=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xPcja+PTbSYK0vYi1jHDHTAFwXPEVUSMLW2ZufcuVS4=
+			SJLKXdEUH3zgba4kl67U6ID/+W25aJq3J5FXqNeVZmE=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S4+IBHSQlMQMbps1GxqgCx172HIRdImaL/JER/cKMM8=
+			ks+qKzLpvwZzFChsLhQAW+kNK+qhE7IsIqGh8eHHP3M=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/7raV/FAkDRYzakvRpyDtCM7PmNBvuBr/EWm80rkvbM=
+			5z8QbSfIpGnh4uwoeCA6y/dEDcvoGIl0b0n8FzDNwoM=
 			</data>
 		</dict>
 		<key>Headers/Feed-Swift.h</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nERq5dDdsOXwG2kA4LCXhviiU2AeTK/Tn3EpsyVH27c=
+			ZwJ9OloRv8ZNUnouFMuLGYXZj6g1RRxY9jOdKg9gUr0=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5VuotcZmPkLKdefP7izUF1OXMmxSrIsV1CTtK+iuEtI=
+			cax6fjEQn0hd+jtb5nSy1NlkzA3KTw/oQTEIaqOUldk=
 			</data>
 		</dict>
 	</dict>
