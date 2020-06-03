@@ -6,23 +6,23 @@
 	<dict>
 		<key>AppointmentView.nib</key>
 		<data>
-		z7Dg85zLmjMiZCz2RNJ88dnOJeE=
+		LF1AnQizI5Q9Q5KvCIf7KBffSok=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		VkCnxThT8d7sQLa9DDW26Vmjjfo=
+		B+7NL3uvOYNfNi9+88iI95CwfEk=
 		</data>
 		<key>BroadcastAboViewController.nib</key>
 		<data>
-		+QyOWnGo2lUG31jVYDW/n1l8MC0=
+		7EzOVYi0S9CkuL9fJm7a6kgjSkY=
 		</data>
 		<key>BroadcastTableViewCell.nib</key>
 		<data>
-		vAN8kFFZCrwgRE8SXl/vAJEHF+Q=
+		CKx4/8Bwny3BfWCJ4Qs8muGWFok=
 		</data>
 		<key>ChannelListTableViewCell.nib</key>
 		<data>
-		+RT8y8wh5Dn+sLnr2vbIHoRReyM=
+		cKYgLbsC8TWAuenjhb21zHBiSBc=
 		</data>
 		<key>Chat.storyboardc/Info.plist</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Chat.storyboardc/UIViewController-uuk-wd-uro.nib</key>
 		<data>
-		2j6wGNX3zTaOWbydXv0rt6v0OKE=
+		KyVaM7ma2ibo3pL7q2m220nRNp8=
 		</data>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<data>
-		OOaavEzrJfkMhhwK0vWhQ3rVe50=
+		htQG8Ig7I/clsffo6LEd7YJS1uo=
 		</data>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<data>
-		rzA/Hlyb/FFoefpkEWXruD/zJ9Y=
+		dJb0lvljOj+J9bQkGF++Sy+qpYU=
 		</data>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<data>
-		twde7qiPcnYD/4WsfoM/pgMT0no=
+		bh2XdWYvOV1YY5bptQ+h6cjfAhs=
 		</data>
 		<key>Headers/Feed-Swift.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ManageNotificationsViewController.nib</key>
 		<data>
-		lpCXH3e1ogSvuiPLpqLbgZNxcTA=
+		+N3mndyGCm6vuC2WVKrh4jKcMUQ=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>WebViewController.nib</key>
 		<data>
-		pSYUUsrIMMP47Dkv+4+UoHNjHA4=
+		oIGU3/yJbPXS7gBwNqap5rLLUcQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,35 +103,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RoD9l0iFX6AoAZ1omUGaSgeR85MiwuOhJfbMSfppL1s=
+			hGPnU9W/DjNTNWS6NIbvOOWKJP00wmfufmifNk2QQgA=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eh5Xrn2bsC2qQJ4inrFtWVA7+ULAmjfTWzukLIKkisA=
+			8B5e/JdgXaoxfUexXILXm7CAMZnCrDmqexS0kzhXSp8=
 			</data>
 		</dict>
 		<key>BroadcastAboViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zHxYBUUuP2m4OXDdq2H3hlwipO99Qe6rgUKqUqRQEXw=
+			KO7ENcvKE0i5FJCgZ6i4Mzd1a0QzVHLYmODneut+N/I=
 			</data>
 		</dict>
 		<key>BroadcastTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bKOa7HtLJoKobcitoWMDNARQ9fS7TGw/FCaZ4kx+AUg=
+			FaCWIVGLHJ3hivDACYwGl6A3fJeOfjuoecAd85h6jUA=
 			</data>
 		</dict>
 		<key>ChannelListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v5J8ZlU3bU5Q3gZgus2Pa9ahc0XNb1yDUDlb9nc8HFg=
+			0lWI2O+tYDq+DLABJIoyBA4pA+OIHQWtDeg1pM76HJo=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/Info.plist</key>
@@ -145,28 +145,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8KatuCJp8MvvwOJWtmXetqb76N9hxB6BZ46eOWvoA/o=
+			fndlM9lLRwXHt2IH+MuKY389BSQJaxEriXWwnnGiKrM=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjFN35u1T3EqCGBypLKGVXeCl8YIl3YiT6TDQeUen1U=
+			4j5jUksTTwyhSIGJALZo5M3lFmxwriNG3kiUje7CMDY=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5u19OnnfOt1ShC27lAOC+LQkqbqjJxbd5GceGOksyhc=
+			Eu7tKj1pdL1SDo0w82cPVsZq6bvnVFvIli+Wnsu7Ll4=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VvKeZq0ZMxEC9QvmKeDzymXN+iEXDlEhOmBnQ4I10Qk=
+			AaJmF8xxmQFEJHx5ensx0CKA4ClLFqccvlvAn7bvYE4=
 			</data>
 		</dict>
 		<key>Headers/Feed-Swift.h</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f4WWyQwwR612wiyQzwlBtu2Mrn39huYo/OgMyCwA+dA=
+			zzP28hJhr1AQgUUoHiS4HY/jndCGb2cFwLYxjxrPs2E=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T3UVKNCaQpbT56qF3BxmbDO4L5AI8GKWhzGtkLUXY2c=
+			vg8Kn5zYkNuYAQoiJjKwRMTqu2/c9DtznWmid9XqGTI=
 			</data>
 		</dict>
 	</dict>
