@@ -1,10 +1,24 @@
 {
   "warnings": [
     {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController+ChannelListProtocol.swift",
+      "line": 34,
+      "symbol": "ChannelListViewController.refreshView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
       "line": 11,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
+      "line": 14,
+      "symbol": "ChannelListViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
@@ -46,20 +60,6 @@
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
       "line": 178,
       "symbol": "ChannelListViewController.tableView(_:didSelectRowAt:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 184,
-      "symbol": "ChannelListViewController",
-      "symbol_kind": "source.lang.swift.decl.extension",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 200,
-      "symbol": "ChannelListViewController.refreshView()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
@@ -229,6 +229,41 @@
       "line": 44,
       "symbol": "SemanticColors.uiColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/Feed.swift",
+      "line": 12,
+      "symbol": "FeedSDK",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/Feed.swift",
+      "line": 14,
+      "symbol": "FeedSDK.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/Feed.swift",
+      "line": 27,
+      "symbol": "FeedSDK",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/FeedDelegate.swift",
+      "line": 11,
+      "symbol": "FetchTokenHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/FeedDelegate.swift",
+      "line": 13,
+      "symbol": "FeedDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
       "warning": "undocumented"
     }
   ],

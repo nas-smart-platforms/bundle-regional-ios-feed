@@ -14,7 +14,7 @@
     <a title="Protocols  Reference"></a>
     <header>
       <div class="content-wrapper">
-        <p><a href="index.html">Feed 1.0 Docs</a> (54% documented)</p>
+        <p><a href="index.html">Feed 1.0 Docs</a> (56% documented)</p>
       </div>
     </header>
     <div class="content-wrapper">
@@ -35,6 +35,9 @@
               </li>
               <li class="nav-group-task">
                 <a href="Classes.html#/s:4Feed20ChannelListViewModelC">ChannelListViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/FeedSDK.html">FeedSDK</a>
               </li>
             </ul>
           </li>
@@ -70,10 +73,30 @@
             <a href="Protocols.html">Protocols</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
+                <a href="Protocols/FeedConfigurable.html">FeedConfigurable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Protocols/FeedDelegate.html">FeedDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Protocols.html#/s:4Feed0A8HandlingP">FeedHandling</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Protocols/FeedIngress.html">FeedIngress</a>
+              </li>
+              <li class="nav-group-task">
                 <a href="Protocols/ViewControllerConfigurable.html">ViewControllerConfigurable</a>
               </li>
               <li class="nav-group-task">
                 <a href="Protocols/ViewControllerProtocol.html">ViewControllerProtocol</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Typealiases.html#/s:4Feed17FetchTokenHandlera">FetchTokenHandler</a>
               </li>
             </ul>
           </li>
@@ -139,6 +162,117 @@
                         <div class="language">
                           <p class="aside-title">Swift</p>
                           <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">ViewControllerConfigurable</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:4Feed0A8HandlingP"></a>
+                    <a name="//apple_ref/swift/Protocol/FeedHandling" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A8HandlingP">FeedHandling</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Combined protocol to simplify handling for all data pointed towards the Feed Module</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">FeedHandling</span> <span class="p">:</span> <span class="kt"><a href="Protocols/FeedConfigurable.html">FeedConfigurable</a></span><span class="p">,</span> <span class="kt"><a href="Protocols/FeedIngress.html">FeedIngress</a></span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:4Feed0A12ConfigurableP"></a>
+                    <a name="//apple_ref/swift/Protocol/FeedConfigurable" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A12ConfigurableP">FeedConfigurable</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Configuration options for the Feed module</p>
+
+                        <a href="Protocols/FeedConfigurable.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">FeedConfigurable</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:4Feed0A7IngressP"></a>
+                    <a name="//apple_ref/swift/Protocol/FeedIngress" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A7IngressP">FeedIngress</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Handling data from the app container</p>
+
+                        <a href="Protocols/FeedIngress.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">FeedIngress</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:4Feed0A8DelegateP"></a>
+                    <a name="//apple_ref/swift/Protocol/FeedDelegate" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A8DelegateP">FeedDelegate</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                        <a href="Protocols/FeedDelegate.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">FeedDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 
                         </div>
                       </div>

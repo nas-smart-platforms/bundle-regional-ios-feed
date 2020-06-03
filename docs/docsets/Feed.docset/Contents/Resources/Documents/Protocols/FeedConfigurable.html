@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Group Extension Reference</title>
+    <title>FeedConfigurable Protocol Reference</title>
     <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
     <meta charset='utf-8'>
@@ -10,8 +10,8 @@
     
   </head>
   <body>
-    <a name="//apple_ref/swift/Extension/Group" class="dashAnchor"></a>
-    <a title="Group Extension Reference"></a>
+    <a name="//apple_ref/swift/Protocol/FeedConfigurable" class="dashAnchor"></a>
+    <a title="FeedConfigurable Protocol Reference"></a>
     <header>
       <div class="content-wrapper">
         <p><a href="../index.html">Feed 1.0 Docs</a> (56% documented)</p>
@@ -21,7 +21,7 @@
       <p id="breadcrumbs">
         <a href="../index.html">Feed Reference</a>
         <img id="carat" src="../img/carat.png" />
-        Group Extension Reference
+        FeedConfigurable Protocol Reference
       </p>
     </div>
     <div class="content-wrapper">
@@ -105,14 +105,15 @@
       <article class="main-content">
         <section>
           <section class="section">
-            <h1>Group</h1>
+            <h1>FeedConfigurable</h1>
               <div class="declaration">
                 <div class="language">
-                  <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Group</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">FeedConfigurable</span></code></pre>
 
                 </div>
               </div>
-            
+            <p>Configuration options for the Feed module</p>
+
           </section>
           <section class="section task-group-section">
             <div class="task-group">
@@ -120,9 +121,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:SH4hash4intoys6HasherVz_tF"></a>
-                    <a name="//apple_ref/swift/Method/hash(into:)" class="dashAnchor"></a>
-                    <a class="token" href="#/s:SH4hash4intoys6HasherVz_tF">hash(into:<wbr>)</a>
+                    <a name="/s:4Feed0A12ConfigurableP10apiBaseURL10Foundation0E0VvpZ"></a>
+                    <a name="//apple_ref/swift/Variable/apiBaseURL" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A12ConfigurableP10apiBaseURL10Foundation0E0VvpZ">apiBaseURL</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -130,13 +131,14 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        
+                        <p>base url for the internal API client</p>
+
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">hash</span><span class="p">(</span><span class="n">into</span> <span class="nv">hasher</span><span class="p">:</span> <span class="k">inout</span> <span class="kt">Hasher</span><span class="p">)</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">static</span> <span class="k">var</span> <span class="nv">apiBaseURL</span><span class="p">:</span> <span class="kt">URL</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 
                         </div>
                       </div>
