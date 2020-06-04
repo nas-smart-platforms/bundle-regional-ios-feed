@@ -121,6 +121,7 @@ public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case statusOk
   case textLight
   case statusWarning
+  case switchOn
   public var uiColor: UIKit.UIColor {
     get
   }
@@ -152,6 +153,7 @@ extension UIColor {
   public static var statusOk: UIKit.UIColor
   public static var textLight: UIKit.UIColor
   public static var statusWarning: UIKit.UIColor
+  public static var switchOn: UIKit.UIColor
 }
 extension Feed.ChannelListViewController : Feed.ViewControllerProtocol {}
 extension UIKit.UIView.GradientDirection : Swift.Equatable {}
