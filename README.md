@@ -20,7 +20,7 @@ For more information see the [docs](https://docs.fastlane.tools/advanced/other/#
 
 In the `Podfile` add:
 
-`source "git@github.com:nas-smart-platforms/bundle-regional-ios-specs.git"`
+`source "https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git"`
 
 add the repository: `pod repo add nas https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git`
 
