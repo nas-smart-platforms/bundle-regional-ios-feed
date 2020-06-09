@@ -70,12 +70,13 @@ public protocol FeedConfigurable {
 public protocol FeedIngress {
   func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
 }
-@_hasMissingDesignatedInitializers final public class FeedSDK : Feed.FeedConfigurable {
+final public class FeedSDK : Feed.FeedConfigurable {
   weak final public var delegate: Feed.FeedDelegate?
   public static var apiBaseURL: Foundation.URL {
     get
     set
   }
+  public init()
   @objc deinit
 }
 extension FeedSDK : Feed.FeedIngress {

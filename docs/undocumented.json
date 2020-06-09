@@ -261,7 +261,14 @@
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/Feed.swift",
-      "line": 27,
+      "line": 26,
+      "symbol": "FeedSDK.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/_adapter/Feed.swift",
+      "line": 29,
       "symbol": "FeedSDK",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
