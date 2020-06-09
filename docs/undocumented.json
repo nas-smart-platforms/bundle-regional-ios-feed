@@ -44,21 +44,21 @@
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 170,
+      "line": 168,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 172,
+      "line": 170,
       "symbol": "ChannelListViewController.tableView(_:trailingSwipeActionsConfigurationForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 179,
+      "line": 177,
       "symbol": "ChannelListViewController.tableView(_:didSelectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
