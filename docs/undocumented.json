@@ -65,7 +65,7 @@
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewModel.swift",
-      "line": 26,
+      "line": 27,
       "symbol": "ChannelListViewModel",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
