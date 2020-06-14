@@ -286,13 +286,6 @@
       "symbol": "FeedDelegate",
       "symbol_kind": "source.lang.swift.decl.protocol",
       "warning": "undocumented"
-    },
-    {
-      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/embedded/api/Sources/API/Groups & Chat/Groups.swift",
-      "line": 14,
-      "symbol": "Group",
-      "symbol_kind": "source.lang.swift.decl.extension",
-      "warning": "undocumented"
     }
   ],
   "source_directory": "/Users/carsten/repositories/freelance/nas/ios-nas-base"

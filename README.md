@@ -24,14 +24,12 @@ In the `Podfile` add:
 
 add the repository: `pod repo add nas https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git`
 
-<!-- `source "https://github.com/nas-smart-platforms/bundle-regional-ios-specs.git"` -->
-<!-- add the repository: `pod repo add nas git@github.com:nas-smart-platforms/bundle-regional-ios-specs.git` -->
-
 and of course the Pod itself: `pod "NASFeed"`.
 
 ⚠️⚠️⚠️ As of May 2020 you HAVE to install the following Swift Package:
 
 * **Kingfisher** `https://github.com/onevcat/Kingfisher.git`
+* **NAS API** `ssh://git@gitlab.dev.letsbundle.de:2224/nas/bundle-regional-ios-api.git`
 
 Future versions of Swift package manager might prevent this caveat.
 
