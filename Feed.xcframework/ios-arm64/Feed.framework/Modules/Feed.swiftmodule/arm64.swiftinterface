@@ -71,6 +71,7 @@ public protocol FeedIngress {
   func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
 }
 final public class FeedSDK : Feed.FeedConfigurable {
+  public static var current: Feed.FeedSDK
   weak final public var delegate: Feed.FeedDelegate?
   public static var apiBaseURL: Foundation.URL {
     get
