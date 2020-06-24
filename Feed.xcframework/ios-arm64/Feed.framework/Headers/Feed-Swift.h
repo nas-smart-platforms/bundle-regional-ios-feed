@@ -251,6 +251,8 @@ SWIFT_CLASS("_TtC4Feed25ChannelListViewController")
 
 
 
+
+
 @interface UIView (SWIFT_EXTENSION(Feed))
 @property (nonatomic) IBInspectable CGFloat cornerRadius;
 @end
