@@ -2,7 +2,7 @@
   "warnings": [
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/ChannelList/ChannelListViewController+ChannelListProtocol.swift",
-      "line": 35,
+      "line": 41,
       "symbol": "ChannelListViewController.refreshView()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -226,23 +226,9 @@
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
-      "line": 43,
-      "symbol": "SemanticColors.switchOn",
-      "symbol_kind": "source.lang.swift.decl.enumelement",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
-      "line": 45,
+      "line": 60,
       "symbol": "SemanticColors.uiColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
-      "line": 104,
-      "symbol": "UIColor.switchOn",
-      "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },
     {

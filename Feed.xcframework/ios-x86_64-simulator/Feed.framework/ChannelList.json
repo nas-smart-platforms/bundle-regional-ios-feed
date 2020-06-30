@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": "dea515dd-51d0-45df-9b4b-a3809e34e928",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:ef55479b-59c3-47c5-9ff3-58f75db0b201"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Chat mit Mathias",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "321c23c6-9bef-437f-9a43-872b4a46833a",
+        "groupid": "dea515dd-51d0-45df-9b4b-a3809e34e928",
+        "created": "2020-04-15T09:03:10.210Z",
+        "creatorid": "1a56a71f-ca6d-412c-ac16-44e9265e9c22",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Test",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "d02f9eaf-29af-4d62-91da-f0aaf445b422",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Test 186515} - Delete Me!",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "6af327a3-f936-4c24-9644-c41f451bb5e8",
+        "groupid": "d02f9eaf-29af-4d62-91da-f0aaf445b422",
+        "created": "2020-04-14T08:53:36.693Z",
+        "creatorid": "77403bfb-8234-4c2e-a87e-1e65a0af3175",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Test, again",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "677946c4-f7c6-4701-bcfd-85408e81600e",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Feedback zur App",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "840d9489-b5e9-4d1c-a34f-5cafd6d87ae0",
+        "groupid": "677946c4-f7c6-4701-bcfd-85408e81600e",
+        "created": "2020-04-17T14:33:33.156Z",
+        "creatorid": "8d87038c-1e2b-485b-ad25-750cf870617a",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Leiwand",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "448ea924-5d8e-45db-982c-6954cb263089",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Test 728521 - Delete Me!",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "ecf9940f-e4e2-4ab5-9073-12bab3d7b93e",
+        "groupid": "448ea924-5d8e-45db-982c-6954cb263089",
+        "created": "2020-04-14T13:17:42.962Z",
+        "creatorid": "ce21b4de-3f85-4d1a-8109-35ccbd1f60cf",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Hi",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "42e4a69a-0eb3-4b29-bbae-5f4eaebaf3c5",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "AKO Broadcast",
+      "imageid": null,
+      "type": "broadcast",
+      "state": "new",
+      "lastcontent": {
+        "id": "99d6628d-d07b-4e84-9b37-bd0b879b148f",
+        "groupid": "42e4a69a-0eb3-4b29-bbae-5f4eaebaf3c5",
+        "created": "2020-04-13T09:48:21.455Z",
+        "creatorid": "1bb45a96-5fa5-433d-9a4e-82687955b7ab",
+        "parts": [
+          {
+            "type": "text",
+            "value": "test 3x/g\"F1jIH4)6YMt,&m+&\\@UmK>/M~+B 🎉🌈",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "2de95e97-88a8-463b-aa6c-b7b03f816333",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:13fca926-3231-4db4-b1c9-00bacd7ebbdb"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Chat mit Silke",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "df23a146-dc7a-447f-b690-f1ad85c0c0b5",
+        "groupid": "2de95e97-88a8-463b-aa6c-b7b03f816333",
+        "created": "2020-04-07T12:56:16.394Z",
+        "creatorid": "89bf7ed6-3999-43a3-b3c0-93c49b4fe6e7",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Hallo Liebe Silke, das ist meine erste Nachricht an Dich via Paw",
+            "version": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "06de02c9-049b-4240-879b-43e9e1f168c9",
+      "idperms": {
+        "scope": {
+          "type": [
+            {
+              "type": "user:3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
+          ]
+        },
+        "version": 1
+      },
+      "name": "Test - Delete Me!",
+      "imageid": null,
+      "type": "service",
+      "state": "new",
+      "lastcontent": {
+        "id": "3c6ca856-2649-47c7-9d8e-3f294359fa59",
+        "groupid": "06de02c9-049b-4240-879b-43e9e1f168c9",
+        "created": "2020-04-14T14:46:44.744Z",
+        "creatorid": "cc4a57b1-36c7-4873-8c37-4c15497820ca",
+        "parts": [
+          {
+            "type": "text",
+            "value": "Bin da",
+            "version": 1
+          }
+        ]
+      }
+    }
+  ],
+  "count": "24"
+}
