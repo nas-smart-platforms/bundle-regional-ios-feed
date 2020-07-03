@@ -226,7 +226,7 @@
     },
     {
       "file": "/Users/carsten/repositories/freelance/nas/ios-nas-base/Feed/SemanticColors.swift",
-      "line": 60,
+      "line": 66,
       "symbol": "SemanticColors.uiColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"

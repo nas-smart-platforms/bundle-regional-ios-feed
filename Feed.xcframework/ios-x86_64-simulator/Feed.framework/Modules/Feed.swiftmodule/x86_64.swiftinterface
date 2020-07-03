@@ -115,12 +115,14 @@ public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case ticketing
   case statusProblem
   case chatBackgroundOther
+  case chatTextMe
   case divider
   case textInput
   case textTertiary
   case textPrimary
   case textSecondary
   case chatBackgroundMe
+  case chatTextOther
   case statusOk
   case bus
   case rBahn
@@ -134,6 +136,7 @@ public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case tintPrimary
   case badgeChat
   case tintSecondary
+  case fallbackSystemBackground
   case textLight
   public var uiColor: UIKit.UIColor {
     get
@@ -154,12 +157,14 @@ extension UIColor {
   public static var ticketing: UIKit.UIColor
   public static var statusProblem: UIKit.UIColor
   public static var chatBackgroundOther: UIKit.UIColor
+  public static var chatTextMe: UIKit.UIColor
   public static var divider: UIKit.UIColor
   public static var textInput: UIKit.UIColor
   public static var textTertiary: UIKit.UIColor
   public static var textPrimary: UIKit.UIColor
   public static var textSecondary: UIKit.UIColor
   public static var chatBackgroundMe: UIKit.UIColor
+  public static var chatTextOther: UIKit.UIColor
   public static var statusOk: UIKit.UIColor
   public static var bus: UIKit.UIColor
   public static var rBahn: UIKit.UIColor
@@ -173,6 +178,7 @@ extension UIColor {
   public static var tintPrimary: UIKit.UIColor
   public static var badgeChat: UIKit.UIColor
   public static var tintSecondary: UIKit.UIColor
+  public static var fallbackSystemBackground: UIKit.UIColor
   public static var textLight: UIKit.UIColor
 }
 extension Feed.ChannelListViewController : Feed.ViewControllerProtocol {}
