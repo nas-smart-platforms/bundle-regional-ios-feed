@@ -20,6 +20,11 @@ public enum ChannelError : Swift.Error {
   case parsing(description: Swift.String)
   case network(description: Swift.String)
 }
+extension Date {
+  public var dateComponents: Foundation.DateComponents {
+    get
+  }
+}
 extension UIView {
   public enum GradientDirection {
     case leftToRight
