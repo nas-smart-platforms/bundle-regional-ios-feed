@@ -116,6 +116,7 @@ extension ChannelListViewController : UIKit.UITableViewDelegate {
 }
 public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case undefined
+  case alertBackground
   case inlineLink
   case ticketing
   case statusProblem
@@ -158,6 +159,7 @@ public enum SemanticColors : Swift.String, Swift.CaseIterable {
 }
 extension UIColor {
   public static var undefined: UIKit.UIColor
+  public static var alertBackground: UIKit.UIColor
   public static var inlineLink: UIKit.UIColor
   public static var ticketing: UIKit.UIColor
   public static var statusProblem: UIKit.UIColor
