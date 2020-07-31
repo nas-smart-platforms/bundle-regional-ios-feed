@@ -2,70 +2,70 @@
   "warnings": [
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController+ChannelListProtocol.swift",
-      "line": 35,
+      "line": 46,
       "symbol": "ChannelListViewController.refreshView()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 11,
+      "line": 12,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 14,
+      "line": 13,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 56,
+      "line": 59,
       "symbol": "ChannelListViewController.viewDidLoad()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 75,
+      "line": 87,
       "symbol": "ChannelListViewController.viewWillAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 93,
+      "line": 107,
       "symbol": "ChannelListViewController.viewWillDisappear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 172,
+      "line": 194,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 174,
+      "line": 196,
       "symbol": "ChannelListViewController.tableView(_:trailingSwipeActionsConfigurationForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 181,
+      "line": 203,
       "symbol": "ChannelListViewController.tableView(_:didSelectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewModel.swift",
-      "line": 27,
+      "line": 33,
       "symbol": "ChannelListViewModel",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
@@ -89,6 +89,13 @@
       "line": 12,
       "symbol": "ChannelError.network(description:)",
       "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Core/Extensions/Date+.swift",
+      "line": 48,
+      "symbol": "Date.dateComponents",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
@@ -226,42 +233,28 @@
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/SemanticColors.swift",
-      "line": 43,
-      "symbol": "SemanticColors.switchOn",
-      "symbol_kind": "source.lang.swift.decl.enumelement",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/SemanticColors.swift",
-      "line": 45,
+      "line": 68,
       "symbol": "SemanticColors.uiColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/SemanticColors.swift",
-      "line": 104,
-      "symbol": "UIColor.switchOn",
-      "symbol_kind": "source.lang.swift.decl.var.static",
-      "warning": "undocumented"
-    },
-    {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
-      "line": 12,
+      "line": 14,
       "symbol": "FeedSDK",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
-      "line": 13,
+      "line": 15,
       "symbol": "FeedSDK.current",
       "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
-      "line": 14,
+      "line": 16,
       "symbol": "FeedSDK.delegate",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
@@ -269,8 +262,22 @@
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
       "line": 27,
+      "symbol": "FeedSDK.loginBaseURL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
+      "line": 33,
       "symbol": "FeedSDK",
       "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/FeedConfigurable.swift",
+      "line": 19,
+      "symbol": "FeedConfigurable.loginBaseURL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },
     {

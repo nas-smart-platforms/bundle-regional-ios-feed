@@ -1,4 +1,0 @@
-framework module API {
-  header "API-Swift.h"
-  requires objc
-}
