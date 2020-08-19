@@ -30,35 +30,35 @@
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 87,
+      "line": 88,
       "symbol": "ChannelListViewController.viewWillAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 107,
+      "line": 110,
       "symbol": "ChannelListViewController.viewWillDisappear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 194,
+      "line": 198,
       "symbol": "ChannelListViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 196,
+      "line": 200,
       "symbol": "ChannelListViewController.tableView(_:trailingSwipeActionsConfigurationForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController.swift",
-      "line": 203,
+      "line": 207,
       "symbol": "ChannelListViewController.tableView(_:didSelectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"

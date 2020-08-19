@@ -76,7 +76,7 @@ public protocol FeedConfigurable {
 }
 public protocol FeedIngress {
   func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
-  func presentNotificationSettings(for groupID: Foundation.UUID, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
+  func presentNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
 }
 @_hasMissingDesignatedInitializers final public class FeedSDK : Feed.FeedConfigurable {
   public static var current: Feed.FeedSDK
@@ -92,7 +92,7 @@ public protocol FeedIngress {
   @objc deinit
 }
 extension FeedSDK : Feed.FeedIngress {
-  final public func presentNotificationSettings(for groupID: Foundation.UUID, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
+  final public func presentNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
   final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
 }
 public protocol ViewControllerProtocol : AnyObject {
