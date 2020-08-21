@@ -2,7 +2,7 @@
   "warnings": [
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/ChannelList/ChannelListViewController+ChannelListProtocol.swift",
-      "line": 50,
+      "line": 62,
       "symbol": "ChannelListViewController.refreshView()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
