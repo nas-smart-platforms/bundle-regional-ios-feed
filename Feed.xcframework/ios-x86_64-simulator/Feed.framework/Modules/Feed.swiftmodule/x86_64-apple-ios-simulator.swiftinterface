@@ -53,7 +53,7 @@ extension UIView {
 public typealias FetchTokenHandler = (Swift.Result<Swift.String, Swift.Error>) -> Swift.Void
 public protocol FeedDelegate : AnyObject {
   func fetchCurrentAccessToken(_ completion: @escaping Feed.FetchTokenHandler)
-  func handle(error: Swift.Error)
+  func handle(error: Swift.Error, completion: (() -> Swift.Void)?)
 }
 extension Group : Swift.Hashable {
   public func hash(into hasher: inout Swift.Hasher)
