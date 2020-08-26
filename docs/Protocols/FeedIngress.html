@@ -17,7 +17,7 @@
     <a title="FeedIngress Protocol Reference"></a>
     <header>
       <div class="content-wrapper">
-        <p><a href="../index.html">Feed 1.0 Docs</a> (64% documented)</p>
+        <p><a href="../index.html">Feed 1.0 Docs</a> (65% documented)</p>
         <p class="header-right">
           <form role="search" action="../search.json">
             <input type="text" placeholder="Search documentation" data-typeahead>
@@ -179,9 +179,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:4Feed0A7IngressP27presentNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF"></a>
-                    <a name="//apple_ref/swift/Method/presentNotificationSettings(for:in:completion:)" class="dashAnchor"></a>
-                    <a class="token" href="#/s:4Feed0A7IngressP27presentNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF">presentNotificationSettings(for:<wbr>in:<wbr>completion:<wbr>)</a>
+                    <a name="/s:4Feed0A7IngressP31presentLineNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF"></a>
+                    <a name="//apple_ref/swift/Method/presentLineNotificationSettings(for:in:completion:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A7IngressP31presentLineNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF">presentLineNotificationSettings(for:<wbr>in:<wbr>completion:<wbr>)</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -196,7 +196,77 @@
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">presentNotificationSettings</span><span class="p">(</span><span class="k">for</span> <span class="nv">line</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="k">in</span> <span class="nv">targetViewController</span><span class="p">:</span> <span class="kt">UIViewController</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="p">(</span><span class="n">_</span> <span class="nv">isActive</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span><span class="p">)</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">presentLineNotificationSettings</span><span class="p">(</span><span class="k">for</span> <span class="nv">line</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="k">in</span> <span class="nv">targetViewController</span><span class="p">:</span> <span class="kt">UIViewController</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="p">(</span><span class="n">_</span> <span class="nv">isActive</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>group</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>the group to manage</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>viewController</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>the target viewcontroller presenting the push configuration view</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>completion</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>completion handler indicating wether the <code>group</code> is subscribed for push notifications or not</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:4Feed0A7IngressP35presentElevatorNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF"></a>
+                    <a name="//apple_ref/swift/Method/presentElevatorNotificationSettings(for:in:completion:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:4Feed0A7IngressP35presentElevatorNotificationSettings3for2in10completionySS_So16UIViewControllerCySbctF">presentElevatorNotificationSettings(for:<wbr>in:<wbr>completion:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Request configuration</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">presentElevatorNotificationSettings</span><span class="p">(</span><span class="k">for</span> <span class="nv">elevator</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="k">in</span> <span class="nv">targetViewController</span><span class="p">:</span> <span class="kt">UIViewController</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="p">(</span><span class="n">_</span> <span class="nv">isActive</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span><span class="p">)</span></code></pre>
 
                         </div>
                       </div>
