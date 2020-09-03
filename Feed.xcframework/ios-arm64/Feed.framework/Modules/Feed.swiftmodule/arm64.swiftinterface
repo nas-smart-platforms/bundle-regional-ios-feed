@@ -76,7 +76,7 @@ public protocol FeedConfigurable {
   static var loginBaseURL: Foundation.URL { get set }
 }
 public protocol FeedIngress {
-  func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
+  func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], local: Swift.Bool)
   func presentLineNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
   func presentElevatorNotificationSettings(for elevator: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
 }
@@ -96,7 +96,7 @@ public protocol FeedIngress {
 extension FeedSDK : Feed.FeedIngress {
   final public func presentLineNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
   final public func presentElevatorNotificationSettings(for elevator: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
-  final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any])
+  final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], local: Swift.Bool = false)
 }
 public protocol ViewControllerProtocol : AnyObject {
   var viewController: UIKit.UIViewController { get }
@@ -119,6 +119,9 @@ extension ViewControllerProtocol where Self : UIKit.UIViewController {
 extension ChannelListViewController : UIKit.UITableViewDelegate {
   @objc dynamic public func tableView(_ tableView: UIKit.UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: Foundation.IndexPath) -> UIKit.UISwipeActionsConfiguration?
   @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+}
+extension String {
+  public init(deviceToken: Foundation.Data)
 }
 public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case undefined

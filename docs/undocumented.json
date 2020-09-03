@@ -99,6 +99,13 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Core/Extensions/String+.swift",
+      "line": 27,
+      "symbol": "String.init(deviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Core/Extensions/UIView+.swift",
       "line": 12,
       "symbol": "UIView.GradientDirection",
