@@ -79,7 +79,7 @@ public protocol FeedConfigurable {
   static var loginBaseURL: Foundation.URL { get set }
 }
 public protocol FeedIngress {
-  func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], local: Swift.Bool, in viewController: UIKit.UIViewController?)
+  func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], silent: Swift.Bool, in viewController: UIKit.UIViewController?)
   func presentLineNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
   func presentElevatorNotificationSettings(for elevator: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
 }
@@ -99,7 +99,7 @@ public protocol FeedIngress {
 extension FeedSDK : Feed.FeedIngress {
   final public func presentLineNotificationSettings(for line: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
   final public func presentElevatorNotificationSettings(for elevator: Swift.String, in targetViewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
-  final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], local: Swift.Bool = false, in viewController: UIKit.UIViewController? = nil)
+  final public func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], silent: Swift.Bool = false, in viewController: UIKit.UIViewController? = nil)
 }
 public protocol ViewControllerProtocol : AnyObject {
   var viewController: UIKit.UIViewController { get }
