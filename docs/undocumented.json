@@ -197,6 +197,13 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Core/Extensions/UIViewController+.swift",
+      "line": 80,
+      "symbol": "UIViewController.topViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Core/Protocols/ViewControllerProtocol.swift",
       "line": 14,
       "symbol": "ViewControllerProtocol.viewController",
