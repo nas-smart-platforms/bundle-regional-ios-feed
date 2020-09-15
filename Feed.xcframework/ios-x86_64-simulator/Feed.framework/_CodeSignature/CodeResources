@@ -6,27 +6,27 @@
 	<dict>
 		<key>AddNotificationHeaderView.nib</key>
 		<data>
-		ESRopMwSmXnKkMBADT8g/A9TDRQ=
+		DDKdl9a04qrYjovGVmiwWR9/C+s=
 		</data>
 		<key>AddPeriodView.nib</key>
 		<data>
-		Pc6kuN7uWgiB+Ib/LR+TZ9CJ4v8=
+		6DF2/rFfwn+2K+ZTg8LGO8D+7JA=
 		</data>
 		<key>AppointmentView.nib</key>
 		<data>
-		awo3fl4LKixkWx1Q1Eo1E4AfS7k=
+		4YxRYrRScf0jt4l8owaPAY4DcCI=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		3kEf/0d5fu4PEbOGQYPd8XQ62zE=
+		EwKBi85Pf6pzDHNO/fVUQj+6YNQ=
 		</data>
 		<key>BroadcastAboViewController.nib</key>
 		<data>
-		8Qjhb4dS1AiJCOsmUZLX5HoGsAI=
+		S5lQvPkYlMHm7XvuH+9sjQwihs4=
 		</data>
 		<key>BroadcastTableViewCell.nib</key>
 		<data>
-		vN0wpfPWzRygz84iDTDvUfJG/7Y=
+		TlE7MYDbBdTqex7sGxNFpVz+9jM=
 		</data>
 		<key>ChannelList.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>ChannelListTableViewCell.nib</key>
 		<data>
-		8kQzZoUTKuD+LcGW4+mGRAHK7CM=
+		6knFvyPFqFthDkwWXIYHxcxVJi0=
 		</data>
 		<key>Chat.storyboardc/Info.plist</key>
 		<data>
@@ -42,31 +42,31 @@
 		</data>
 		<key>Chat.storyboardc/QF6-wX-xKE-view-ebD-tt-z6S.nib</key>
 		<data>
-		HMJQeriHplLiPP2ogDCcU+CXXFg=
+		WuCyVK+47yjsC6JaI48eJ26UG/k=
 		</data>
 		<key>Chat.storyboardc/UIViewController-QF6-wX-xKE.nib</key>
 		<data>
-		j8M6W1129FazveT8wjcVpNoKLMQ=
+		ft5ArnPlY1MrkA+nsrngyQIaJ3o=
 		</data>
 		<key>Chat.storyboardc/UIViewController-uuk-wd-uro.nib</key>
 		<data>
-		Pyr0AuXaPoh7JaQHaqfs03a4qlA=
+		A3cBR574TNmZokAJsUZaQL0brII=
 		</data>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<data>
-		DzPsUJIQigj34ZuU2XaFfcWxNAE=
+		2jdL55Yy7VXiLSZSR9r7LQDX/PE=
 		</data>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<data>
-		5OPgwFQiuEB/Cl6Qp/sIOhv5+kg=
+		tBSBcFUQ5kbfhgeUrnVy7Dt4nvc=
 		</data>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<data>
-		1fhYMvKHXNEQEMkwkt5lDk+ghAA=
+		DjcgyaRPzm5A2LvmNYGL8+7Io5Q=
 		</data>
 		<key>FileView.nib</key>
 		<data>
-		Z83p/wZagF0CdBVOxaxtiuVc/KQ=
+		UVuUe/H7TtuzOzbNslU3YPZgT8k=
 		</data>
 		<key>Headers/Feed-Swift.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sl96NZtA0njTbFTeh+VT8W8L00Q=
+		zMQ+LuDy0LTObjmFsPbsSZIxXT8=
 		</data>
 		<key>LineAbo.storyboardc/AbH-qQ-9lK-view-zQ6-48-FhO.nib</key>
 		<data>
-		BXKpAivkhmGiA7UlmwA4gECpLHc=
+		HLTkIE/z0ujZtHAcMpK3SNjDxLc=
 		</data>
 		<key>LineAbo.storyboardc/Info.plist</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>LineAbo.storyboardc/UIViewController-WML-ih-z7P.nib</key>
 		<data>
-		+7z44Fyf/aOnOGmmc9frC5+Q62E=
+		3KU5amGN+MV7nQUSGYVxd1UtjAo=
 		</data>
 		<key>LineAbo.storyboardc/lineAboVc.nib</key>
 		<data>
-		s5aigGzfCk751Mei4qeLJt+oxbk=
+		VGyP5v+iMZDF9Zh2Fxd9+vd95iE=
 		</data>
 		<key>LineStateInfoView.nib</key>
 		<data>
-		mg1HELQUQyaR6iUMdVP9Dde99fs=
+		0yjRMJMtibm3i3xwOMpwxUjmM6c=
 		</data>
 		<key>Localizable.strings</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>ManageNotifications.storyboardc/Xqh-Hg-Nun-view-oeF-1D-d1R.nib</key>
 		<data>
-		f3dwZE15Iu2W1CDtrf0MNmYJfo0=
+		1995mHFKU21Tdh2wjju/b/RENek=
 		</data>
 		<key>ManageNotifications.storyboardc/addPeriodVC.nib</key>
 		<data>
-		wBkeZmlJXLdPBID6p5AAUT9QnYA=
+		uhimFIs3LpZheoGZDTuhhJpoJkA=
 		</data>
 		<key>ManageNotifications.storyboardc/hM7-M0-yoF-view-Q78-GU-IFF.nib</key>
 		<data>
-		JTbuUw95q68aX9BcnNvOAXPoRq4=
+		DBkUnnILSIKWAQbq0/PbRFxMaEw=
 		</data>
 		<key>ManageNotifications.storyboardc/manageNotificationsVC.nib</key>
 		<data>
-		AWcxZFHtMctaqdfEwVGK/BxkegA=
+		TdzAcvMOoLe1HGD+EkVou2164QY=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EA440OgneVDQh0YhnSrR30TTuLo=
+		Qbv8ezutwz+Dr8qRkCG/bAcjGmE=
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		EA440OgneVDQh0YhnSrR30TTuLo=
+		Qbv8ezutwz+Dr8qRkCG/bAcjGmE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -154,31 +154,31 @@
 		</data>
 		<key>NotificationHeaderView.nib</key>
 		<data>
-		X1HPtthR4QDbOifrDFiqWrDXf0k=
+		e5xww3FNAOz7Ve09B3ZNt2XeTbU=
 		</data>
 		<key>NotificationView.nib</key>
 		<data>
-		Ge+9BdL6T820nb0eDuembnu8tgs=
+		3o9+8cg8ch3E67dwqtboD9Z++fk=
 		</data>
 		<key>PeriodSlotTableViewCell.nib</key>
 		<data>
-		xClyGAAXRLqL2+NkVLV+wwC0KNk=
+		zRZFYQ9BOiLfyIXrnCd7RgNnE9Q=
 		</data>
 		<key>PeriodTableViewCell.nib</key>
 		<data>
-		3qew9u/9xIqVVc7PhMpskxrvqzc=
+		j+e2XDsNELE1UxdYytmVycg4SIo=
 		</data>
 		<key>SpecialIconButton.nib</key>
 		<data>
-		pLJe7mWUkrbcD1tIDLdof2U7HQs=
+		68w4SQuvHJ3jZ3fTAnNT8QkMJAo=
 		</data>
 		<key>VoucherView.nib</key>
 		<data>
-		inCBzOcrPBXsOWukRyeckU7TzPs=
+		Wcqq7u78jyrwIM5vt6q3l/vkEzg=
 		</data>
 		<key>WebViewController.nib</key>
 		<data>
-		/gsOgHPu0OUmGcro4ShdFO2T7Rk=
+		qrobRzZzXPpUzaXhXx46QSW+sAg=
 		</data>
 		<key>vag.prod.xcconfig</key>
 		<data>
@@ -195,42 +195,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kv1lyzfrKlDaApLeCcpgTv4g2f+c9wOaZpMAtdum1U0=
+			DjOl+f3L3iA/x+F+fNc7t6peqo4Df65mbH/aboPJnJw=
 			</data>
 		</dict>
 		<key>AddPeriodView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GD0bk/wiVACcppx4+xsS3v1NW2v+5hZ7Sx3y9uloPbc=
+			ywKy2qH1vCxTtsABb0kJYph2YggZbK7yuAcgEMRtwUo=
 			</data>
 		</dict>
 		<key>AppointmentView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m21NO3s/Hh184CfTdSbnU6ldjX/rhpdfl0svrhhDzfo=
+			qFs8bs1k7n4ICX8drheBg1NZNTgxkyKXCCHQ95NkL00=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kuwEQ+CWbVAbvuUachijIQlXGI3J1Jgqth+yc+w/2Jg=
+			eLnZ3t5+dRaNlb3qFM5SGQKQO6f5u4VRy7HO/z4F9r4=
 			</data>
 		</dict>
 		<key>BroadcastAboViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YBFUevj5NT72E/Tl2ppcsUv3Yp+w0M9MLCKjXdH8mxY=
+			f2wXL+VoeqjAMXqPU2mAyoBQqtkzLUWumvRrk+AaAtw=
 			</data>
 		</dict>
 		<key>BroadcastTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w/1pQYnFbpMTbCSDKnh84j5lUB/WFMXMqTLufQnHLus=
+			Kf0azS9JLNUlezqXNCs2Irb7HungeqyAo931JL/fkB4=
 			</data>
 		</dict>
 		<key>ChannelList.json</key>
@@ -244,7 +244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fKzJFAYUiQ45VXBtUdCLB57th/lJdUPIJ6YrbU7Hs3k=
+			gVj+qvm+bbeJ2xBHhDf6NlsEbbQZGMs3+ucygxI1304=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/Info.plist</key>
@@ -258,49 +258,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dc0g6fx8c02SjqHN1MmOPhxXJGrRYNyULwVGlGnQiGc=
+			Twebs+pnHsx6tPLJhlVj6S+ZdAhfb/EycBfy3kh7o3s=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/UIViewController-QF6-wX-xKE.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWVLc1OH1HF4RfWI9hFlMl9OPEhpCPYMW7zPpBpRzz0=
+			hnQ08MVZUaTV7BqJjJ2L3yMKAbri3pwu5r8XfIeNh04=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/UIViewController-uuk-wd-uro.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R/UNImtxyFrckOClpS11wLzQbLNpxYiq81PbKQh1NQ8=
+			aHiC+z4kwEUqPbP7XXzhl6yVy6Vn2KKN36B+NDDDnk8=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/aHo-gh-rA5-view-pqu-5E-YxV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSyWIYK4lqfOPyXkYAFurer40RtlVIV/57V/Ouv8yDA=
+			ISuiawl1MbsP6R/XHOIZ2cq7+pshZJuA9AtY4Wj3t7I=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/chatVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FoikK3+3AbeQoNCFuG50f2rtvbL96E4+nsotXP6Bb0A=
+			ivFrceXTjlsmJufGQL24BDUi1gO9wFHxX43armmkc+4=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/uuk-wd-uro-view-cMW-yg-wiR.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISSmib50m5BizyZVhBOqIG+IMWDNjx3Xd5C1odlcyiE=
+			eGlULuNJtcLRoHxVpEocrtlgIgujq1lyVHMLgf+LyMQ=
 			</data>
 		</dict>
 		<key>FileView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			29yWO8adDn8JTn5GQkM/DFsu0W4fQ3yDzFvj4BGYXcE=
+			9hM+GtFyHPI93tYTCcDRroW0GJxs8EMdPSuhP06TYBg=
 			</data>
 		</dict>
 		<key>Headers/Feed-Swift.h</key>
@@ -321,7 +321,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a2PPeYQM100QBs7bGvAXh3RyztCRFsr7BJFlGLrqZwA=
+			j+w28KBMqy1pyezWf2DlTFfk/+jb/9IPTQcgcDLref4=
 			</data>
 		</dict>
 		<key>LineAbo.storyboardc/Info.plist</key>
@@ -335,21 +335,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6lm4bvP2s6LvhGS9+nWQ+Rfyyg1FJUK2p9bH2zNYri0=
+			Kewt6KpDWoMPuLANJ3b7iI0KVCHis+nehqx29SFNWao=
 			</data>
 		</dict>
 		<key>LineAbo.storyboardc/lineAboVc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6+9JWkQoHm5Dc64MboS4czkFhlr67fuLOac/RD/qQxw=
+			aEYC+jSN6o8aeQofXFI6YnzTH4245gwaDremxMLeZh4=
 			</data>
 		</dict>
 		<key>LineStateInfoView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xCEl4hJkCjsNJHbncWGGDRQsomTXHDVW/v7DYaUA2Ns=
+			9zFpHc7Isou2wkPHqFQ0IHpnXBHeF14MPvP3BkItkoU=
 			</data>
 		</dict>
 		<key>Localizable.strings</key>
@@ -370,28 +370,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DIE7A+g8es994NbpFtVSWMG62iHVpWW9roiX4liRxlk=
+			LLhT2bactKchNbMSP7vwve1SiFMU+ynN+Ax9Y6N8na4=
 			</data>
 		</dict>
 		<key>ManageNotifications.storyboardc/addPeriodVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9S2KwAoCHO0svIMZxu/bGBwI+1BduGRA8BVQaVqRZY=
+			piGK3g1ad+EYzIYFLJ6sPVnTuxv9kK9jmwXl5PWDFvk=
 			</data>
 		</dict>
 		<key>ManageNotifications.storyboardc/hM7-M0-yoF-view-Q78-GU-IFF.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fx4jPer+PUnsSUWfK6soxDrmBUf0QWvWTZaIACaUEF0=
+			5aJZBQvyz9PDHDnCpm5YhRdXia72jfk0ceoIEIIxVl0=
 			</data>
 		</dict>
 		<key>ManageNotifications.storyboardc/manageNotificationsVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/g3odb/HdN6aPebz+MjzxiUZjf7F6Dhe68hhYUOVtNo=
+			2I8P8rhWDwWRzkENw4MbYFBsl5/MCJiqCc0kijce0ME=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -412,7 +412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v0zxslyx9AHRXNkd0oeQuv2gPp62rFPvzBv22jbztM0=
+			w0gQ1J7xQEkMe+jloBYSX1WARCJaRF7fPncfOHhgXzc=
 			</data>
 		</dict>
 		<key>Modules/Feed.swiftmodule/x86_64.swiftdoc</key>
@@ -433,7 +433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v0zxslyx9AHRXNkd0oeQuv2gPp62rFPvzBv22jbztM0=
+			w0gQ1J7xQEkMe+jloBYSX1WARCJaRF7fPncfOHhgXzc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -447,49 +447,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9LlbMOudjXaEQoR+DUlWHMwqvomCByfRcGtESBXqgkw=
+			IO9RhI0cJFsrY2+V9lT/m7F7/efjYf0/iLWCmGE0fiQ=
 			</data>
 		</dict>
 		<key>NotificationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rKzvMT3BiYkObqhXGg6yvchJxIDIEHvn5JrnNuz5dhg=
+			jXEkj/+SGkNZ4/nOLmfKlibUvJ8snnUqxDdbSLH15cY=
 			</data>
 		</dict>
 		<key>PeriodSlotTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vtLmbqCSntryM5zms3XQcxdFXRFCXnzcS92KfXvOUzY=
+			0p57LsHK0SDRVSKJkgy5Y5Kt8Iu7uO8yHO0E9WjerHU=
 			</data>
 		</dict>
 		<key>PeriodTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Mj06WKnhwphHXGwrpi2kw9d68VeHOC5Ib7hEYdIdfI=
+			ciLmr8KTrMJmUKzc+Ywj3HsZ2Gw6lOuKheLK31d92mA=
 			</data>
 		</dict>
 		<key>SpecialIconButton.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			10oKVkfCLKReVd826Vvr2COq5jePJ15iVgffZBraQVc=
+			kFpdNAkRBY5On6smGTbSQlBC+mHCuOC/vmLJBLZG7u0=
 			</data>
 		</dict>
 		<key>VoucherView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1IIS5/SsbsNm+krRya2E63fgd6bhvzbFe0sJ0TL33E=
+			woYeyufey/r3fFFydXInpKvOKiu2IRvLt4lq+/qi7DI=
 			</data>
 		</dict>
 		<key>WebViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZYkowIZDOnpw9tBmCXZzDFEJ73OOpUn5ItNUWSz1ZeQ=
+			gIs4VogsRwGbh8wCEjcFRSP9ceziUKGVSCJyc/abpR8=
 			</data>
 		</dict>
 		<key>vag.prod.xcconfig</key>
