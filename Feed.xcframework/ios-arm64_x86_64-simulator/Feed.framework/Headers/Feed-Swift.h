@@ -191,6 +191,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreGraphics;
+@import EventKitUI;
 @import Foundation;
 @import UIKit;
 #endif
@@ -234,6 +235,50 @@ SWIFT_CLASS("_TtC4Feed25ChannelListViewController")
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
 
+
+
+@class UIStoryboardSegue;
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC4Feed18ChatViewController")
+@interface ChatViewController : UIViewController
+- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewDidAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UITableViewDelegate>
+@end
+
+@class EKEventEditViewController;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <EKEventEditViewDelegate>
+- (void)eventEditViewController:(EKEventEditViewController * _Nonnull)controller didCompleteWithAction:(EKEventEditViewAction)action;
+@end
+
+@class UIImagePickerController;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UIImagePickerControllerDelegate, UINavigationControllerDelegate>
+- (void)imagePickerController:(UIImagePickerController * _Nonnull)picker didFinishPickingMediaWithInfo:(NSDictionary<UIImagePickerControllerInfoKey, id> * _Nonnull)info;
+@end
+
+
+
+
+@class UITableViewCell;
+@class UIContextMenuConfiguration;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UITableViewDataSource>
+- (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (UIContextMenuConfiguration * _Nullable)tableView:(UITableView * _Nonnull)tableView contextMenuConfigurationForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath point:(CGPoint)point SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 
@@ -447,6 +492,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreGraphics;
+@import EventKitUI;
 @import Foundation;
 @import UIKit;
 #endif
@@ -490,6 +536,50 @@ SWIFT_CLASS("_TtC4Feed25ChannelListViewController")
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
 
+
+
+@class UIStoryboardSegue;
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC4Feed18ChatViewController")
+@interface ChatViewController : UIViewController
+- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewDidAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UITableViewDelegate>
+@end
+
+@class EKEventEditViewController;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <EKEventEditViewDelegate>
+- (void)eventEditViewController:(EKEventEditViewController * _Nonnull)controller didCompleteWithAction:(EKEventEditViewAction)action;
+@end
+
+@class UIImagePickerController;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UIImagePickerControllerDelegate, UINavigationControllerDelegate>
+- (void)imagePickerController:(UIImagePickerController * _Nonnull)picker didFinishPickingMediaWithInfo:(NSDictionary<UIImagePickerControllerInfoKey, id> * _Nonnull)info;
+@end
+
+
+
+
+@class UITableViewCell;
+@class UIContextMenuConfiguration;
+
+@interface ChatViewController (SWIFT_EXTENSION(Feed)) <UITableViewDataSource>
+- (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (UIContextMenuConfiguration * _Nullable)tableView:(UITableView * _Nonnull)tableView contextMenuConfigurationForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath point:(CGPoint)point SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 

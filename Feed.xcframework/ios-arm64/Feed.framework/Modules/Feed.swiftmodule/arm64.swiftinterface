@@ -22,6 +22,30 @@ public enum ChannelError : Swift.Error {
   case parsing(description: Swift.String)
   case network(description: Swift.String)
 }
+@objc @_inheritsConvenienceInitializers @IBDesignable final public class ChatViewController : UIKit.UIViewController {
+  @objc override final public func viewDidLoad()
+  @objc override final public func viewWillAppear(_ animated: Swift.Bool)
+  @objc override final public func viewDidAppear(_ animated: Swift.Bool)
+  @objc override final public func viewWillDisappear(_ animated: Swift.Bool)
+  @objc override final public func prepare(for segue: UIKit.UIStoryboardSegue, sender: Any?)
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension ChatViewController : UIKit.UITableViewDataSource {
+  @objc final public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @objc final public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @objc final public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @objc final public func tableView(_ tableView: UIKit.UITableView, contextMenuConfigurationForRowAt indexPath: Foundation.IndexPath, point: CoreGraphics.CGPoint) -> UIKit.UIContextMenuConfiguration?
+}
+extension ChatViewController : EventKitUI.EKEventEditViewDelegate {
+  @objc final public func eventEditViewController(_ controller: EventKitUI.EKEventEditViewController, didCompleteWith action: EventKitUI.EKEventEditViewAction)
+}
+extension ChatViewController : UIKit.UITableViewDelegate {
+}
+extension ChatViewController : UIKit.UINavigationControllerDelegate, UIKit.UIImagePickerControllerDelegate {
+  @objc final public func imagePickerController(_ picker: UIKit.UIImagePickerController, didFinishPickingMediaWithInfo info: [UIKit.UIImagePickerController.InfoKey : Any])
+}
 extension Date {
   public var dateComponents: Foundation.DateComponents {
     get
@@ -125,6 +149,9 @@ extension ChannelListViewController : UIKit.UITableViewDelegate {
 }
 extension String {
   public init(deviceToken: Foundation.Data)
+}
+extension ChatViewController {
+  #warning("wip & buggy!")
 }
 public enum SemanticColors : Swift.String, Swift.CaseIterable {
   case undefined
