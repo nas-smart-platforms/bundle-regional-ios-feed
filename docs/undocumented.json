@@ -395,6 +395,13 @@
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
       "line": 33,
+      "symbol": "FeedSDK.realm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/Feed.swift",
+      "line": 39,
       "symbol": "FeedSDK",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"

@@ -118,6 +118,10 @@ public protocol FeedIngress {
     get
     set
   }
+  public static var realm: Swift.String {
+    get
+    set
+  }
   @objc deinit
 }
 extension FeedSDK : Feed.FeedIngress {
