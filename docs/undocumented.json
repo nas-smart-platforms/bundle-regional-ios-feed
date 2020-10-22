@@ -128,77 +128,77 @@
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 201,
+      "line": 202,
       "symbol": "ChatViewController.prepare(for:sender:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 255,
+      "line": 256,
       "symbol": "ChatViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 256,
+      "line": 257,
       "symbol": "ChatViewController.numberOfSections(in:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 260,
+      "line": 261,
       "symbol": "ChatViewController.tableView(_:numberOfRowsInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 264,
+      "line": 265,
       "symbol": "ChatViewController.tableView(_:cellForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 402,
+      "line": 403,
       "symbol": "ChatViewController.tableView(_:contextMenuConfigurationForRowAt:point:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 450,
+      "line": 451,
       "symbol": "ChatViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 451,
+      "line": 452,
       "symbol": "ChatViewController.eventEditViewController(_:didCompleteWith:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 457,
+      "line": 458,
       "symbol": "ChatViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 461,
+      "line": 462,
       "symbol": "ChatViewController",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/Chat/UI/ChatViewController.swift",
-      "line": 463,
+      "line": 464,
       "symbol": "ChatViewController.imagePickerController(_:didFinishPickingMediaWithInfo:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -410,6 +410,13 @@
       "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/FeedConfigurable.swift",
       "line": 19,
       "symbol": "FeedConfigurable.loginBaseURL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andreaskostuch/work/iOS/NAS/bundle-regional-ios/Feed/_adapter/FeedConfigurable.swift",
+      "line": 20,
+      "symbol": "FeedConfigurable.realm",
       "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },

@@ -101,6 +101,7 @@ public protocol FeedHandling : Feed.FeedConfigurable, Feed.FeedIngress {
 public protocol FeedConfigurable {
   static var apiBaseURL: Foundation.URL { get set }
   static var loginBaseURL: Foundation.URL { get set }
+  static var realm: Swift.String { get set }
 }
 public protocol FeedIngress {
   func handleRemoteNotification(_ userInfo: [Swift.AnyHashable : Any], silent: Swift.Bool, in viewController: UIKit.UIViewController?)
